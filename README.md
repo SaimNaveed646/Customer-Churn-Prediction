@@ -14,7 +14,7 @@ Link: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-an
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-## 📌 Future Improvements
+## Future Improvements
 - Feature engineering
 - Apply Models
 - Hyperparameter tuning
